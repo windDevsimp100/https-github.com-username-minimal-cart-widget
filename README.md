@@ -13,5 +13,5 @@ Well-structured vanilla JS code
 
 # Digital Resource
 
-[![Buy on Gumroad](https://img.shields.io/badge/Buy%20on-Gumroad-orange)](https://windrider4.gumroad.com/l/qmavailabl
+[![Buy on Gumroad](https://img.shields.io/badge/Buy%20on-Gumroad-orange)](https://windrider4.gumroad.com/l/qmdgxr) 
 Always available on Gumroad.
